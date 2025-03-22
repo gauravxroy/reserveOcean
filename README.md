@@ -12,7 +12,7 @@ A restaurant table reservation application built with React and Vite.
 2. Run the following command:
 
 ```sh
-git clone https://github.com/username/ReserveOcean.git
+git clone https://github.com/gauravxroy/reserveOcean.git
 ```
 
 3. Navigate to the project directory:
@@ -23,12 +23,12 @@ cd ReserveOcean
 
 #### To Fork the Repository:
 
-1. Visit the GitHub repository at: `https://github.com/username/ReserveOcean`
+1. Visit the GitHub repository at: `https://github.com/gauravxroy/reserveOcean.git`
 2. Click the "Fork" button in the top-right corner
 3. Once forked, clone your fork to your local machine:
 
 ```sh
-git clone https://github.com/YOUR-USERNAME/ReserveOcean.git
+git clone https://github.com/gauravxroy/reserveOcean.git
 ```
 
 4. Navigate to the project directory:
@@ -40,7 +40,7 @@ cd ReserveOcean
 5. (Optional) Add the original repository as an upstream remote to sync changes:
 
 ```sh
-git remote add upstream https://github.com/username/ReserveOcean.git
+git remote add upstream https://github.com/gauravxroy/reserveOcean.git
 ```
 
 ### Install Dependencies
@@ -139,5 +139,5 @@ Visit the live application: [ReserveOcean Demo](https://reserveocean.netlify.app
   - Vs Code
 
 ## 📄 License
-
+#### Developed By Gaurav
 This project is licensed under the MIT License - see the LICENSE file for details.
